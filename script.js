@@ -1,1 +1,1 @@
-console.log("Goodbye");
+console.log("New");
