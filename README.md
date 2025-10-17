@@ -1,4 +1,4 @@
-Abigayel Dyvette D. Calamba
+Abigayle Dyvette D. Calamba
 BSCS 
 Software Engineering 2
 CS-31
